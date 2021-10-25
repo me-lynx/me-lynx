@@ -11,7 +11,7 @@
 </div>
   
   <div>
-    <img align="center" alt="Me-Csharp" height="100" width="100" src="https://raw.githubusercontent.com/me-lynx/me-lynx/main/img.png">
+    <img align="center" alt="Me-Csharp" height="500" width="500" src="https://raw.githubusercontent.com/me-lynx/me-lynx/main/img.png">
   </div>
   
   ##
