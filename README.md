@@ -10,8 +10,8 @@
   <img align="center" alt="Me-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  <div>
+  <center><div>
     <img align="center" alt="Me-Csharp" height="500" width="500" src="https://raw.githubusercontent.com/me-lynx/me-lynx/main/img.png">
-  </div>
+    </div></center>
   
   ##
