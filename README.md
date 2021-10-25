@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![me-lynx's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-lynx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-lynx&langs_count=8)](https://github.com/me-lynx/github-readme-stats&theme=radical)
+
 
 
 Here are some ideas to get you started:
