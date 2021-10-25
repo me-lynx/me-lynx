@@ -19,7 +19,7 @@
 <div align="center> 
   <a href="https://instagram.com/ruivinhadoti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/melynxtv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <img align="center" alt="Me-Csharp" height="300" width="300" src="https://raw.githubusercontent.com/me-lynx/me-lynx/main/img.png">
+   <img alt="pic" height="300" width="300" src="https://raw.githubusercontent.com/me-lynx/me-lynx/main/img.png">
    <a href = "mailto:melynx@rarit.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/maizalouise" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
