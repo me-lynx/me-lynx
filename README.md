@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![me-lynx's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-lynx)](https://github.com/anuraghazra/github-readme-stats)
+![me-lynx's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-lynx&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
