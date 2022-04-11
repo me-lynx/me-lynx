@@ -34,6 +34,7 @@
   <li>❤️ Technology is my passion </li>
   <li>💜 Dart/Flutter lover</li>
   <li>💙 SQL </li>
+  <li>🧡 Member of Class #3 of Road To GDE - Google. </li>
 </ul>  
  <a href="https://github.com/rafaballerini">Profile inspired by: Rafaella Ballerini</a>
 
