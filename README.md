@@ -3,10 +3,10 @@
 <h2>About me:</h2>
 
 <ul>
-  <li>📱Mobile Developer - FullStack </li>
+  <li>📱Mobile Developer</li>
   <li>❤️ Technology is my passion </li>
   <li>💜 Dart/Flutter lover</li>
-  <li>💙 SQL </li>
+  <li>💙 Speaker + GDG Organizer </li>
   <li>🧡 Member of Class #3 of Road To GDE - Google. </li>
 </ul>  
 
