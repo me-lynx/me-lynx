@@ -1,5 +1,15 @@
 
 ## Bem vindo! Welcome!
+<h2>About me:</h2>
+
+<ul>
+  <li>📱Mobile Developer - FullStack </li>
+  <li>❤️ Technology is my passion </li>
+  <li>💜 Dart/Flutter lover</li>
+  <li>💙 SQL </li>
+  <li>🧡 Member of Class #3 of Road To GDE - Google. </li>
+</ul>  
+
 <div align="center">
   <a href="https://github.com/me-lynx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-lynx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,12 +33,4 @@
 </div>
 <hr style="width:100%;text-align:left;margin-left:0">
                                                     
-<h2>About me:</h2>
 
-<ul>
-  <li>📱Mobile Developer - FullStack </li>
-  <li>❤️ Technology is my passion </li>
-  <li>💜 Dart/Flutter lover</li>
-  <li>💙 SQL </li>
-  <li>🧡 Member of Class #3 of Road To GDE - Google. </li>
-</ul>  
