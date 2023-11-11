@@ -24,7 +24,7 @@
 <hr style="width:100%;text-align:left;margin-left:0">
 &nbsp; 
 <div align="center> 
-  <a href="https://instagram.com/ruivinhadoti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/melynxtv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/melynxtv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <img alt="pic" height="300" width="300" src="https://raw.githubusercontent.com/me-lynx/me-lynx/main/img.png">
    <a href = "mailto:maizalouise@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
